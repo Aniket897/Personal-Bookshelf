@@ -10,31 +10,28 @@ Make sure you have Node.js and npm (Node Package Manager) installed. You can dow
 
 
 
-\```bash
-git clone https://github.com/Aniket897/Personal-Bookshelf
 
-\```
+`git clone https://github.com/Aniket897/Personal-Bookshelf`
 
-\```bash
-cd Personal-Bookshelf
-\```
+
+
+
+`cd Personal-Bookshelf`
 
 ### 2. install dependencies
 
 
 
-\```bash
-npm install
-\```
+
+`npm install`
 
 
 ### 3. Start the Development Server
 
 Navigate to the project directory and start the development server:
 
-\```bash
-npm start
-\```
+
+`npm start`
 
 This will start the development server and open the app in your default web browser at `http://localhost:3000`.
 
